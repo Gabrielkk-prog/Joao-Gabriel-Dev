@@ -22,10 +22,6 @@ Sou natural do Rio de Janeiro, estudei informatica na escola publica CIEP e, atu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielkk-prog&theme=dark" alt="Streak de commits" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-prog&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px"/>
-</p>
-
 ---
 
 ## 📫 Contatos:
