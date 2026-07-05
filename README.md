@@ -1,6 +1,6 @@
 # João Gabriel|Dev👋
 
-Sou natural do Rio de Janeiro, técnico em Informática formado pelo CIEP e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.
+Sou natural do Rio de Janeiro, estudei informatica na escola publica CIEP e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.
 
 🚀 Busco evoluir constantemente como desenvolvedor e criar soluções eficientes.
 📺 Acompanhe meu conteúdo no YouTube: [@soudevjunior](https://youtube.com/@soudevjunior)
