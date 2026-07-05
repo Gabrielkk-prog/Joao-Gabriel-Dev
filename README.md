@@ -1,4 +1,4 @@
-# Olá, eu sou o João Gabriel! 👋
+# João Gabriel|Dev👋
 
 Sou natural do Rio de Janeiro, técnico em Informática formado pelo CIEP e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.
 
@@ -6,21 +6,14 @@ Sou natural do Rio de Janeiro, técnico em Informática formado pelo CIEP e, atu
 📺 Acompanhe meu conteúdo no YouTube: [@soudevjunior](https://youtube.com/@soudevjunior)
 
 ---
-
-### 🚀 Tecnologias que uso com mais frequência
-
-## 🛠️ Tecnologias e Ferramentas
-
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Mobile** | ![Flutter](url-do-badge) |
-| **Backend** | ![Java](url-do-badge) |
-| **Frontend** | ![TypeScript](url-do-badge) ![HTML5](url-do-badge) ![CSS3](url-do-badge) |
-| **Banco de Dados** | ![PostgreSQL](url-do-badge) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ---
-
-### 📊 Minhas estatísticas no GitHub
 
 ## 📊 Minhas Estatísticas no GitHub
 
