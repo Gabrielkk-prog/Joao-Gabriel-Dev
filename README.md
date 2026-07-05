@@ -18,9 +18,14 @@ Sou natural do Rio de Janeiro, técnico em Informática formado pelo CIEP e, atu
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielkk-pro&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-pro&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielkk-prog&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielkk-prog&theme=dark" alt="Streak de commits" height="180px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-prog&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px"/>
+</p>
+
 ---
 
 ## 📫 Contatos:
