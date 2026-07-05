@@ -1,34 +1,41 @@
-# João Gabriel|Dev👋
+```
+$ whoami
+joao-gabriel — dev
 
-Sou natural do Rio de Janeiro, estudei informatica na escola publica CIEP e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.
+$ cat sobre.txt
+Natural do Rio de Janeiro.
+Estudei informática na escola pública (CIEP).
+Cursando ADS (Análise e Desenvolvimento de Sistemas) na Estácio.
 
-🚀 Busco evoluir constantemente como desenvolvedor e criar soluções eficientes.
-📺 Acompanhe meu conteúdo no YouTube: [@soudevjunior](https://youtube.com/@soudevjunior)
+$ cat contato.txt
+youtube  -> https://youtube.com/@soudevjunior
+```
 
----
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielkk-prog&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielkk-prog&theme=dark" alt="Streak de commits" height="180px"/>
+<p align="left">
+  📺 <a href="https://youtube.com/@soudevjunior?si=2_dldiM2W4hFOL2Q"><b>João Gabriel</b></a> — acompanhe meu conteúdo de dev no YouTube
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-prog&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px"/>
-</p>
----
+```
+$ ls stack/
+```
 
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql)
+
+```
+$ git log --stats
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gabrielkk-prog&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="stats" width="480"/>
+
+```
+$ echo "obrigado pela visita"
+obrigado pela visita
+```
 ## 📫 Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-7697a340a/)
