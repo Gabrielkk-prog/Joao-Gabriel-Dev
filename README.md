@@ -1,4 +1,4 @@
-<h1 align="center">Joao Gabriel|Dev</h1>
+<h1 align="center">Joao Gabriel | Dev</h1>
 
 <p align="center">
   Me chamo <a href="https://youtube.com/@soudevjunior?si=2_dldiM2W4hFOL2Q"><b>João Gabriel</b></a>, sou natural do Rio de Janeiro.
