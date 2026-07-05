@@ -26,7 +26,7 @@ Sou natural do Rio de Janeiro, técnico em Informática formado pelo CIEP e, atu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-prog&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px"/>
 </p>
 ---
-## 📫 Vamos nos conectar?
+## 📫 Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-7697a340a/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lendariojohn@gmail.com)
