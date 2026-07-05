@@ -30,16 +30,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=
 Gabrielkk-prog&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=
-Gabrielkk-prog&theme=radical" alt="Streak de commits" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielkk-prog&theme=radical" alt="Streak de commits" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Gabrielkk-prog&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-prog&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=
-Gabrielkk-prog&theme=redical" alt="Gráfico de contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielkk-prog&theme=redical" alt="Gráfico de contribuições"/>
 </p>
 ---
 
