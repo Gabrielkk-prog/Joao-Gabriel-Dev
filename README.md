@@ -1,14 +1,9 @@
-<h1 align="center">Joao Gabriel | Dev</h1>
+# Olá, eu sou o João Gabriel! 👋
 
-<p align="center">
-  Me chamo <a href="https://youtube.com/@soudevjunior?si=2_dldiM2W4hFOL2Q"><b>João Gabriel</b></a>, sou natural do Rio de Janeiro.
-  <br>
-  Fiz Informática na escola pública (CIEP) e atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Estácio.
-</p>
+Sou natural do Rio de Janeiro, técnico em Informática formado pelo CIEP e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.
 
-<p align="center">
-  📺 Acompanhe meu conteúdo no YouTube: <a href="https://youtube.com/@soudevjunior?si=2_dldiM2W4hFOL2Q">@soudevjunior</a>
-</p>
+🚀 Busco evoluir constantemente como desenvolvedor e criar soluções eficientes.
+📺 Acompanhe meu conteúdo no YouTube: [@soudevjunior](https://youtube.com/@soudevjunior)
 
 ---
 
