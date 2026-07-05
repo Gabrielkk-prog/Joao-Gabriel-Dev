@@ -9,32 +9,31 @@ Sou natural do Rio de Janeiro, técnico em Informática formado pelo CIEP e, atu
 
 ### 🚀 Tecnologias que uso com mais frequência
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+## 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Mobile** | ![Flutter](url-do-badge) |
+| **Backend** | ![Java](url-do-badge) |
+| **Frontend** | ![TypeScript](url-do-badge) ![HTML5](url-do-badge) ![CSS3](url-do-badge) |
+| **Banco de Dados** | ![PostgreSQL](url-do-badge) |
 
 ---
 
 ### 📊 Minhas estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=
-Gabrielkk-prog&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielkk-prog&theme=radical" alt="Streak de commits" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-prog&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielkk-prog&theme=redical" alt="Gráfico de contribuições"/>
-</p>
----
+## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <i> "Develop a passion for learning, if you do, you will never cease to grow"</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielkk-prog&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielkk-prog&theme=dark" alt="Streak de commits" height="180px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkk-prog&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px"/>
+</p>
+---
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
