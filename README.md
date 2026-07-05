@@ -28,16 +28,16 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" alt="Streak de commits" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Gabrielkk-prog&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Gabrielkk-prog&theme=radical" alt="Streak de commits" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Gabrielkk-prog&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=redical" alt="Gráfico de contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Gabrielkk-prog&theme=redical" alt="Gráfico de contribuições"/>
 </p>
 
 ---
