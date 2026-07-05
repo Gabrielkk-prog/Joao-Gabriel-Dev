@@ -3,7 +3,7 @@
 <p align="center">
   Me chamo <a href="https://youtube.com/@soudevjunior?si=2_dldiM2W4hFOL2Q"><b>João Gabriel</b></a>, sou natural do Rio de Janeiro.
   <br>
-  Fiz Informática em uma escola pública (CIEP) e hoje curso ADS (Análise e Desenvolvimento de Sistemas) na Estácio.
+  Fiz Informática na escola pública (CIEP) e atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Estácio.
 </p>
 
 <p align="center">
