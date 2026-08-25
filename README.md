@@ -7,14 +7,6 @@ Natural do Rio de Janeiro.
 Estudei informática na escola pública (CIEP).
 Cursando ADS (Análise e Desenvolvimento de Sistemas) na Estácio.
 
-$ cat contato.txt
-youtube  -> https://youtube.com/@soudevjunior
-```
-
-<p align="left">
-  📺 <a href="https://youtube.com/@soudevjunior?si=2_dldiM2W4hFOL2Q"><b>João Gabriel</b></a> — acompanhe meu conteúdo de dev no YouTube
-</p>
-
 ```
 $ ls stack/
 ```
