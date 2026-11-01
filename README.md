@@ -6,6 +6,7 @@ $ cat sobre.txt
 Natural do Rio de Janeiro.
 Estudei informática na escola pública (CIEP).
 Cursando ADS (Análise e Desenvolvimento de Sistemas) na Estácio.
+atual nivel de proeficiencia em ingles B1 
 
 ```
 $ ls stack/
